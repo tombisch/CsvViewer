@@ -1,0 +1,17 @@
+C:\Users\tombi\Desktop\Csvedit\Csvedit\bin\Debug\Csvedit.exe
+C:\Users\tombi\Desktop\Csvedit\Csvedit\bin\Debug\Csvedit.pdb
+C:\Users\tombi\Desktop\Csvedit\Csvedit\obj\Debug\Csvedit.csprojAssemblyReference.cache
+C:\Users\tombi\Desktop\Csvedit\Csvedit\obj\Debug\Csvedit.Properties.Resources.resources
+C:\Users\tombi\Desktop\Csvedit\Csvedit\obj\Debug\Csvedit.csproj.GenerateResource.cache
+C:\Users\tombi\Desktop\Csvedit\Csvedit\obj\Debug\Csvedit.csproj.CoreCompileInputs.cache
+C:\Users\tombi\Desktop\Csvedit\Csvedit\obj\Debug\Csvedit.exe
+C:\Users\tombi\Desktop\Csvedit\Csvedit\obj\Debug\Csvedit.pdb
+C:\Users\tombi\OneDrive\Desktop\Csvedit\Csvedit\obj\Debug\Csvedit.csprojAssemblyReference.cache
+C:\Users\tombi\OneDrive\Desktop\Csvedit\Csvedit\obj\Debug\Csvedit.MainForm.resources
+C:\Users\tombi\OneDrive\Desktop\Csvedit\Csvedit\obj\Debug\Csvedit.Properties.Resources.resources
+C:\Users\tombi\OneDrive\Desktop\Csvedit\Csvedit\obj\Debug\Csvedit.csproj.GenerateResource.cache
+C:\Users\tombi\OneDrive\Desktop\Csvedit\Csvedit\obj\Debug\Csvedit.csproj.CoreCompileInputs.cache
+C:\Users\tombi\OneDrive\Desktop\Csvedit\Csvedit\obj\Debug\Csvedit.exe
+C:\Users\tombi\OneDrive\Desktop\Csvedit\Csvedit\obj\Debug\Csvedit.pdb
+C:\Users\tombi\OneDrive\Desktop\Csvedit\Csvedit\bin\Debug\Csvedit.exe
+C:\Users\tombi\OneDrive\Desktop\Csvedit\Csvedit\bin\Debug\Csvedit.pdb
